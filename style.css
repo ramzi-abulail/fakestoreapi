@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+
 }
 
 
@@ -50,6 +51,11 @@
 #form {
     display: flex;
     margin-top: 100px;
+    margin-left: 10px;
+    gap: 10px;
+
+   
+
 }
 
 #postList {
@@ -86,3 +92,4 @@
     height: auto;
     margin-top: 500px;
 }
+
